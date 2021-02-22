@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Video46EnAdelante\bin\Debug\Intro_ProcedimientosYFunciones.exe.config
+C:\Users\Usuario\source\repos\Video46EnAdelante\bin\Debug\Intro_ProcedimientosYFunciones.exe
+C:\Users\Usuario\source\repos\Video46EnAdelante\bin\Debug\Intro_ProcedimientosYFunciones.pdb
+C:\Users\Usuario\source\repos\Video46EnAdelante\obj\Debug\Intro_ProcedimientosYFunciones.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video46EnAdelante\obj\Debug\Intro_ProcedimientosYFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video46EnAdelante\obj\Debug\Intro_ProcedimientosYFunciones.exe
+C:\Users\Usuario\source\repos\Video46EnAdelante\obj\Debug\Intro_ProcedimientosYFunciones.pdb

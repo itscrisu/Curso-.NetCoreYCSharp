@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Funciones\bin\Debug\Modulo4_funciones.exe.config
+C:\Users\Usuario\source\repos\Funciones\bin\Debug\Modulo4_funciones.exe
+C:\Users\Usuario\source\repos\Funciones\bin\Debug\Modulo4_funciones.pdb
+C:\Users\Usuario\source\repos\Funciones\obj\Debug\Funciones.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Funciones\obj\Debug\Modulo4_funciones.exe
+C:\Users\Usuario\source\repos\Funciones\obj\Debug\Modulo4_funciones.pdb

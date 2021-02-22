@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\DateTime\obj\Debug\Fecha.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DateTime\bin\Debug\Fecha.exe.config
+C:\Users\Usuario\source\repos\DateTime\bin\Debug\Fecha.exe
+C:\Users\Usuario\source\repos\DateTime\bin\Debug\Fecha.pdb
+C:\Users\Usuario\source\repos\DateTime\obj\Debug\Fecha.exe
+C:\Users\Usuario\source\repos\DateTime\obj\Debug\Fecha.pdb
+C:\Users\Usuario\source\repos\DateTime\obj\Debug\Fecha.csprojAssemblyReference.cache

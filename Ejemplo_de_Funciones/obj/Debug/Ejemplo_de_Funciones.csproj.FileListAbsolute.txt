@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejemplo_de_Funciones\bin\Debug\Ejemplo_de_Funciones.exe.config
+C:\Users\Usuario\source\repos\Ejemplo_de_Funciones\bin\Debug\Ejemplo_de_Funciones.exe
+C:\Users\Usuario\source\repos\Ejemplo_de_Funciones\bin\Debug\Ejemplo_de_Funciones.pdb
+C:\Users\Usuario\source\repos\Ejemplo_de_Funciones\obj\Debug\Ejemplo_de_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo_de_Funciones\obj\Debug\Ejemplo_de_Funciones.exe
+C:\Users\Usuario\source\repos\Ejemplo_de_Funciones\obj\Debug\Ejemplo_de_Funciones.pdb
+C:\Users\Usuario\source\repos\Ejemplo_de_Funciones\obj\Debug\Ejemplo_de_Funciones.csprojAssemblyReference.cache
