@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Pilas\obj\Debug\Pilas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Pilas\obj\Debug\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Pilas\bin\Debug\Pilas.exe.config
+C:\Users\Usuario\source\repos\Pilas\bin\Debug\Pilas.exe
+C:\Users\Usuario\source\repos\Pilas\bin\Debug\Pilas.pdb
+C:\Users\Usuario\source\repos\Pilas\obj\Debug\Pilas.exe
+C:\Users\Usuario\source\repos\Pilas\obj\Debug\Pilas.pdb

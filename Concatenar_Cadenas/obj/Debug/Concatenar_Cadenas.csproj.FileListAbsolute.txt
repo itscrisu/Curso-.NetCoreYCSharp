@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Concatenar_Cadenas\bin\Debug\Concatenar_Cadenas.exe.config
+C:\Users\Usuario\source\repos\Concatenar_Cadenas\bin\Debug\Concatenar_Cadenas.exe
+C:\Users\Usuario\source\repos\Concatenar_Cadenas\bin\Debug\Concatenar_Cadenas.pdb
+C:\Users\Usuario\source\repos\Concatenar_Cadenas\obj\Debug\Concatenar_Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Concatenar_Cadenas\obj\Debug\Concatenar_Cadenas.exe
+C:\Users\Usuario\source\repos\Concatenar_Cadenas\obj\Debug\Concatenar_Cadenas.pdb

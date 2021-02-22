@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Tipo_ArrayList\bin\Debug\Tipo_ArrayList.exe.config
+C:\Users\Usuario\source\repos\Tipo_ArrayList\bin\Debug\Tipo_ArrayList.exe
+C:\Users\Usuario\source\repos\Tipo_ArrayList\bin\Debug\Tipo_ArrayList.pdb
+C:\Users\Usuario\source\repos\Tipo_ArrayList\obj\Debug\Tipo_ArrayList.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tipo_ArrayList\obj\Debug\Tipo_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tipo_ArrayList\obj\Debug\Tipo_ArrayList.exe
+C:\Users\Usuario\source\repos\Tipo_ArrayList\obj\Debug\Tipo_ArrayList.pdb
